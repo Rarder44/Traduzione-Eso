@@ -30,7 +30,10 @@ Per installare l'addon portoghese occorre:
   
   basterà modificarli ( o sovrascriverli con i "nostri" ) per avere una traduzione parziale dell'interfaccia
   
+  ---------------------------------------------------------------------------------------
   
   Lista di (credo) tutti gli ID delle stringhe del br_pregame: http://esodata.uesp.net/current/src/pregamelocalization/localizepregamegeneratedstrings.lua.html#14
   
   Lista di (credo) tutti gli ID delle stringhe del br_client: http://esodata.uesp.net/current/src/ingamelocalization/localizegeneratedstrings.lua.html#14
+  
+  Aggiunta anche una versione testuale delle due pagine nella folder FILE_DI_RIFERIMENTO_STRINGHE
