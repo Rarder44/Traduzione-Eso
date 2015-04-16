@@ -1,4 +1,4 @@
-# Traduzione-Eso
+# Traduzione Eso
 Questo progetto è pensato per cercare di tradurre un minimo di UI di ESO.
 
 Basandoci sull'addon Portoghese, si possono modificare i file lua ( br_pregame.lua , br_client.lua  ) per ottenere una prima traduzione Italiana
